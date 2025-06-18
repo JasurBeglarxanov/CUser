@@ -1,7 +1,5 @@
 👤 Create User App
 
-🔗 Live Demo: https://create-user-jr.netlify.app
-
 📋 Display a dynamic list of users
 
 🧼 Clear input fields after submit
