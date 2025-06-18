@@ -1,6 +1,6 @@
 👤 Create User App
 
-🔗 Live Demo: create-user-jr.netlify.app
+🔗 Live Demo: https://create-user-jr.netlify.app
 
 📋 Display a dynamic list of users
 
